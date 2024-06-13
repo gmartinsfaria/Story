@@ -1,1 +1,1 @@
-And this is chapter 3.
+This is text from branch alien-plot (chapter 3).
